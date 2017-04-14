@@ -1,0 +1,30 @@
+/*CSS Digg style pagination*/
+.xx_page{float:right;}
+DIV.digg {padding:3px;text-align:center; float:left}
+DIV.digg a {border:#cdcdcd 1px solid; height:24px; line-height:24px; padding:0px 8px; margin:2px; color:#333;  text-decoration:none; display:block; float:left;}
+DIV.digg a:hover {border:#004e98 1px solid; color:#fff;background:#00a0ea;}
+DIV.digg a:active {border:#004e98 1px solid; color:#fff; background:#00a0ea;}
+DIV.digg span.total{float:left; height:30px; line-height:30px; padding:0px 8px; display:block; margin-top:2px; font-size:13px;}
+DIV.digg span.current {border:#004e98 1px solid; height:24px; line-height:24px; padding:0px 8px; font-weight:bold; margin:2px; color:#fff; background-color:#00a0ea; display:block; float:left;}
+DIV.digg span.disabled {border:#eee 1px solid; margin:2px; color:#ddd;  height:24px; line-height:24px; padding:0px 8px; display:block; float:left;}
+DIV.digg .txtpage{border:1px #CCCCCC solid; height:24px; line-height:24px;width:40px;margin:2px; text-align:center;}
+DIV.digg .txtbtn{border:#004e98 1px solid; color:#fff;background:#00a0ea;height:25px; line-height:25px;padding:0px 8px;margin:2px;}
+/**·ÖÒ³ÑùÊ½***/
+DIV.msdn {
+	  FONT-SIZE: 12px; COLOR: #666; BACKGROUND-COLOR: #fff; TEXT-ALIGN: right; height:30px; line-height:30px; width:100%; float:left
+}
+DIV.msdn A {
+	 margin-right:5px; COLOR: #666; BORDER: #e3e3e3 1px solid; TEXT-DECORATION: none; padding:2px 3px;
+}
+DIV.msdn A:hover {
+	COLOR: #666; BORDER: #e3e3e3 1px solid; BACKGROUND-COLOR: #E8E8E8
+}
+DIV.pagination A:active {
+	COLOR: #666; BORDER: #e3e3e3 1px solid; BACKGROUND-COLOR: #E8E8E8
+}
+DIV.msdn SPAN.current {
+	COLOR: #666; BORDER: #e3e3e3 1px solid; BACKGROUND:#E8E8E8; padding:2px 7px;
+}
+DIV.msdn SPAN.disabled {
+	DISPLAY: none
+}
